@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Devine 👋
+### AI Automation & Workflow Consultant
 
-<!--
-**Devine99/Devine99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help businesses replace manual busywork with intelligent AI agents. I specialize in connecting **Google Gemini** to your existing tools (n8n, Slack, CRMs) to automate sales and operations.
 
-Here are some ideas to get you started:
+### 🚀 Services
+* **Custom AI Agents:** Building internal tools that reason and make decisions.
+* **Workflow Automation:** Expert in n8n and API integrations.
+* **Gemini Integration:** Deploying Google's latest models for enterprise data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Work
+* [**Gemini Lead Qualification Agent**](https://github.com/Devine99/n8n-gemini-lead-qualifier)
+    * *An autonomous agent that scores inbound leads and drafts personalized sales emails using Gemini 1.5 Pro.*
+
+---
+### 📫 Hire Me
+I am open for freelance projects.
+* **Focus:** AI Automation, Lead Gen Systems, Data Extraction.
